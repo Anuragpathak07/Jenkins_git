@@ -1,0 +1,13 @@
+echo "node_modules/
+.vscode/
+.idea/
+.DS_Store
+__pycache__/
+*.log
+*.ipynb_checkpoints/
+*.swp
+OneDrive/
+AppData/
+NTUSER.*
+.gitconfig
+" > .gitignore
